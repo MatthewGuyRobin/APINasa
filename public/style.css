@@ -1,0 +1,22 @@
+body{
+    background-color: maroon;
+}
+
+
+.title{
+    text-align: center;
+    color: black;
+    font-family: fantasy;
+}
+
+.temp{
+    text-align: center;
+    color: black
+}
+
+.description{
+    text-align: center;
+    width: 50%;
+    position: absolute;
+    left:25%
+}
